@@ -1,0 +1,75 @@
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.pdb
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\refint\Test.Data.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\git\Mid Assignment\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.deps.json
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Test.Data.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\bin\Debug\net6.0\Common.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.AssemblyReference.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfoInputs.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.AssemblyInfo.cs
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.csproj.CopyComplete
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\refint\Test.Data.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\Test.Data.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Test.Data\obj\Debug\net6.0\ref\Test.Data.dll

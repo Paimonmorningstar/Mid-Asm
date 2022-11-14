@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\Test.Data",
+    "\\TestWebAPI",
+    "\\TestWebAPI\\Services",
+    "\\TestWebAPI\\Services\\Implements"
+  ],
+  "SelectedNode": "\\TestWebAPI\\Services\\Implements\\CategoryService.cs",
+  "PreviewInSolutionExplorer": false
+}

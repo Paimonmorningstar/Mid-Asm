@@ -1,0 +1,48 @@
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\bin\Debug\net6.0\Common.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\anhtranv1.HARVEYNASH\Desktop\TestProject\TestWebAPI\Common\obj\Debug\net6.0\ref\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\bin\Debug\net6.0\Common.deps.json
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\bin\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\bin\Debug\net6.0\ref\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\bin\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\ref\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\midassignment\TestWebAPI\Common\obj\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\bin\Debug\net6.0\Common.deps.json
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\bin\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\bin\Debug\net6.0\ref\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\bin\Debug\net6.0\Common.pdb
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\ref\Common.dll
+D:\FILE_NAY_CHUA_JAV_VIDEO_4GB\NashTech\material\week3day2\git\NashTech\Mid Assignment\TestWebAPI\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\bin\Debug\net6.0\Common.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\po\Downloads\Mid-Assignment-master (1)\Mid-Assignment-master\Backend\TestWebAPI\Common\obj\Debug\net6.0\ref\Common.dll
